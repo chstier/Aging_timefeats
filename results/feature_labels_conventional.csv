@@ -1,0 +1,27 @@
+﻿7526;aec_alpha;aec;connectivity;connectivity;AEC alpha (MAE 14.49)
+7527;aec_beta;aec;connectivity;connectivity;AEC beta (MAE 15.15)
+7528;aec_gamma;aec;connectivity;connectivity;AEC gamma (MAE 17.03)
+7529;aec_theta;aec;connectivity;connectivity;AEC theta (MAE 16.01)
+7530;wplid_alpha;wplid;connectivity;connectivity;dwPLI alpha (MAE 15.73)
+7531;wplid_beta;wplid;connectivity;connectivity;dwPLI beta (MAE 16.19)
+7532;wplid_gamma;wplid;connectivity;connectivity;dwPLI gamma (MAE 16.74)
+7533;wplid_theta;wplid;connectivity;connectivity;dwPLI theta (MAE 16.98)
+7534;power_alpha;power;power;power;power alpha (MAE 13.27)
+7535;power_beta;power;power;power;power beta (MAE 14.99)
+7536;power_gamma;power;power;power;power gamma (MAE 13.78)
+7537;power_theta;power;power;power;power theta (MAE 13.95)
+7538;adjusted_power_alpha;adjusted_power;adjusted_power;adjusted_power;adjusted power alpha (MAE 12.96)
+7539;adjusted_power_beta;adjusted_power;adjusted_power;adjusted_power;adjusted power beta (MAE 15.23)
+7540;adjusted_power_gamma;adjusted_power;adjusted_power;adjusted_power;adjusted power gamma (MAE 15.34)
+7541;adjusted_power_theta;adjusted_power;adjusted_power;adjusted_power;adjusted power theta (MAE 14.10)
+7542;iapf;paf;paf;paf;APF instantaneous (MAE 12.42)
+7543;paf_cog;paf;paf;paf;APF center of gravity  (MAE 11.93)
+7544;paf_localm;paf;paf;paf;NA
+7545;1_f_slope;specparam_exponent;specparam;specparam;1/f exponent (MAE 13.28)
+7546;activity;additional;additional;additional;NA
+7547;all_all_wph;additional;additional;additional;NA
+7548;all_mad;additional;additional;additional;NA
+7549;all_zcross;additional;additional;additional;NA
+7550;all_zcrossd;additional;additional;additional;NA
+7551;complexity;additional;additional;additional;NA
+7552;mobility;additional;additional;additional;NA

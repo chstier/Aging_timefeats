@@ -1,4 +1,4 @@
-Code in support of the work "Extensive MEG time-series phenotyping unveils neural markers predictive of age" 
+Code in support of the work "Extensive MEG time-series phenotyping unveils neural markers predictive of age" https://doi.org/10.1101/2024.05.09.593348 
 
 The provided repository contains all relevant scripts and main results but requires some external tools that need to be either placed in the Matlab path, included in the scripts/utilities directory, or the R path.
 

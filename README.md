@@ -24,4 +24,6 @@ Raw data can be obtained via: https://camcan-archive.mrc-cbu.cam.ac.uk/dataacces
 - 4 K-means clustering on regression weights
 - 5 Visualize results
 - 6 Do confounder analysis
+- 7 Corrected repeated k-fold cross validation t-test
+- 8 Run LASSO regression
 

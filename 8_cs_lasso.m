@@ -87,7 +87,7 @@ av_r2 = mean(r2_1,2);
 av_yhat = mean(Y_pred, 2);
 
 % average betas across folds, then across repetitions
-for iparc = 1:15
+for iparc = 1:50
  av_beta_folds(iparc,:) = mean(abs(beta(iparc,:,:)), 2);
  av_beta_folds_notabs(iparc,:) = mean(beta(iparc,:,:), 2);
 end
